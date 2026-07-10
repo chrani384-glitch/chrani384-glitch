@@ -43,21 +43,6 @@ const raniaLal = {
 };
 ```
 
----
-
-### 🚀 Featured Projects
-
-#### 🩺 HerScreen AI
-Multimodal AI framework for early cervical cancer detection, combining Pap smear classification, colposcopy image classification, and a clinical survival model into a single deployed diagnostic tool.
-
-| Layer | Technology |
-|---|---|
-| Pap Smear Model | ResNet-50 |
-| Colposcopy Model | EfficientNet-B0 |
-| Clinical Model | Cox Proportional Hazards |
-| Deployment | Flask Web Application |
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=chrani384-glitch&repo=HerScreen-AI&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/chrani384-glitch)
 
 #### 🧬 NeoVaccine Designer
 JavaFX desktop application integrating the NetMHCpan API to predict peptide-MHC binding and visualize neoantigen candidates for vaccine design.
