@@ -16,49 +16,33 @@
 
 ---
 
+
 ### 👩‍💻 Who I Am
 
-```typescript
-const raniaLal = {
-  title: "AI/ML Researcher",
-  focus: "Multimodal AI for Medical Imaging & Bioinformatics",
+I'm a Bioinformatics graduate from the International Islamic University Islamabad, interested in combining Artificial Intelligence, Machine Learning, and Computational Biology to solve healthcare challenges.
 
-  stack: {
-    languages: ["Python", "R", "C/C++", "Java"],
-    ai_ml: [
-      "ResNet-50",
-      "EfficientNet-B0",
-      "Cox Proportional Hazards",
-      "Grad-CAM"
-    ],
-    bioinformatics: [
-      "NGS",
-      "Sequence Alignment",
-      "BLAST",
-      "PyMOL",
-      "Chimera",
-      "NCBI"
-    ],
-    backend: ["Flask", "JavaFX"],
-    tools: ["MATLAB", "SPSS", "LaTeX", "Google Colab"]
-  },
+My research interests include:
 
-  launchedProjects: [
-    "HerScreen AI - Multimodal Cervical Cancer Detection",
-    "NeoVaccine Designer - Neoantigen Prediction Tool",
-    "BioSequenceAnalyzer",
-    "DNA Mutation Tracker"
-  ],
+- 🧬 **Bioinformatics:** Genomics, NGS, Sequence Analysis, and Molecular Docking.
+- 🧠 **AI & Machine Learning:** Deep Learning, Medical Image Analysis, and Explainable AI.
+- 🏥 **AI in Healthcare:** Multimodal Medical AI, Cancer Detection, and Clinical Decision Support Systems.
 
-  certifications: [
-    "AI-Assisted De Novo Drug Design & Molecular Simulation",
-    "Harnessing NGS and AI: The Future of Genomics"
-  ],
+**Technical Skills**
 
-  status: "BS Bioinformatics Graduate, International Islamic University",
-  openTo: "Fully Funded MS/PhD Research Opportunities"
-};
-```
+| Category | Technologies |
+|---|---|
+| Programming | Python, R, C/C++, Java |
+| Deep Learning | ResNet-50, EfficientNet-B0, Grad-CAM |
+| Bioinformatics | BLAST, NCBI, PyMOL, Chimera, NGS |
+| Backend | Flask, JavaFX |
+| Tools | MATLAB, SPSS, LaTeX, Google Colab |
+
+**🎓 Education:** BS Bioinformatics — International Islamic University Islamabad
+
+**🔬 Current Focus:** AI-powered medical imaging and multimodal healthcare systems.
+
+**🌍 Open To:** Fully Funded MS/PhD Research Opportunities
+
 
 ---
 
