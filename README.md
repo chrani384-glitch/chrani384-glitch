@@ -94,23 +94,6 @@ JavaFX desktop application integrating the NetMHCpan API to predict peptide-MHC 
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chrani384-glitch&theme=nord&no-frame=true&no-bg=true&row=1&column=6)
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrani384-glitch&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
-
-</div>
-
----
 
 ### 📫 Connect With Me
 
